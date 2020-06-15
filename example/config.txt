@@ -1,0 +1,2 @@
+Prefix plugins/AbundanceBin/example
+Plugin AbundanceBin inputfile 2_genome_50000.fasta outputfile 2_genome_50000
