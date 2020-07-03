@@ -1,7 +1,9 @@
+# AbundanceBin
 # Language: C++
-# Input: FNA
-# Output: FNA
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Input: FASTA
+# Output: PREFIX
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: AbundanceBin 1.0.1
 
 PluMA plugin to run AbundanceBin (Wu et al, 2011).
 
@@ -12,5 +14,4 @@ the number of clusters beforehand.
 Output data consists of multiple files, prefixed by
 the input filename.
 
-The plugin relies on the abundancebin application being
-in the system PATH.
+The plugin relies on the abundancebin application being in the system PATH.
